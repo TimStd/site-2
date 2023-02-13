@@ -437,7 +437,7 @@ section .price {
 }
 
 .cart-1 .img {
-    background: url(/img/main/1.png);
+    background: url(img/main/1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -450,7 +450,7 @@ section .price {
 }
 
 .cart-2 .img {
-    background: url(/img/main/2.png);
+    background: url(img/main/2.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -467,7 +467,7 @@ section .price {
 }
 
 .cart-3 .img {
-    background: url(/img/main/3.png);
+    background: url(img/main/3.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -512,7 +512,7 @@ section .price {
 }
 
 .cart-4 .img {
-    background: url(/img/main/4.png);
+    background: url(img/main/4.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -529,7 +529,7 @@ section .price {
 }
 
 .cart-5 .img {
-    background: url(/img/main/5.png);
+    background: url(img/main/5.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -542,7 +542,7 @@ section .price {
 }
 
 .cart-6 .img {
-    background: url(/img/main/6.png);
+    background: url(img/main/6.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -578,7 +578,7 @@ section .price {
 }
 
 .cart-7 .img {
-    background: url(/img/main/7.png);
+    background: url(img/main/7.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -591,7 +591,7 @@ section .price {
 }
 
 .cart-8 .img {
-    background: url(/img/main/8.png);
+    background: url(img/main/8.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -608,7 +608,7 @@ section .price {
 }
 
 .cart-9 .img {
-    background: url(/img/main/9.png);
+    background: url(img/main/9.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
